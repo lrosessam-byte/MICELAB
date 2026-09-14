@@ -4,7 +4,7 @@
 <meta http-equiv="Cache-Control" content="no-cache, must-revalidate, no-store">
 <meta http-equiv="Pragma" content="no-cache">
 <head>
-    <title>MiceLab</title>
+    <title>MiceLab Pro Max</title>
     <link rel="shortcut icon" href="log.jpg" />
     <link rel="stylesheet" href="styles.css">
 </head>
