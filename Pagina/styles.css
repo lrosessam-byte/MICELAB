@@ -1,0 +1,143 @@
+body{
+	background: #fafcfd;
+}
+
+#bar{
+height:76px;
+background: #FFF;
+
+}
+.logo{display: inline-block;
+	position: relative;
+	height:60px;
+	padding: 5px;
+}
+.dlogo{display: inline-block;
+	position: relative;
+	height:70px;
+	width: 300px;
+margin-left: 70px;
+}
+.login{
+	position: relative;
+	display: inline-block;bottom:18px;
+}
+.menu{
+
+	display:block;
+	bottom: 25px;
+	float: right;
+
+
+}
+.botonm{
+	position: relative;
+	display: inline-block;
+	padding: 18px;
+	background:#FFF;
+	margin:5px;
+
+}
+
+#adminInd{
+	display:block;
+	bottom: 25px;
+	float: right;
+	width: 200PX;
+	text-align: center;
+}
+
+.contcamp{
+	width:270px;
+	height: 30px;
+	padding: 3px;
+}
+#nombre{
+	display: block;
+	float:right;
+}#contrasena{
+	display: block;
+	float:right;
+}
+#dlogin{
+	position: absolute; top: 70%; left: 50%; transform: translate(-50%, -50%);    
+
+}t
+#dlog{
+	width:400px;
+	display: block;
+	position: relative;
+}
+#imglogf{
+	display: block;
+	position: relative;
+	width:300px;
+	position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%);
+	animation: myfirst 14s infinite linear; 
+	opacity: 0.6;
+}
+@keyframes myfirst{
+	0%{
+		transform: translate(-50%, -50%) rotate(0deg);
+	}
+	100%{
+		transform: translate(-50%, -50%) rotate(360deg);
+	}}
+	
+
+.textl{
+	font-style: oblique;
+	font-family:fantasy;
+	color: #042960;
+}
+#imgLF{
+	display: block;
+	position: relative;
+	width:300px;
+	position: absolute; top: 30%; left: 50%; transform: translate(-50%, -50%);
+}
+#mensajesL{
+	display: block;
+	position: relative;
+	width:300px;
+	position: absolute; top: 87%; left: 50%; transform: translate(-50%, -50%);
+	text-align: center;
+	background: #ff6e6e;
+	font-family: 'Times New Roman', Times, serif;
+}
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  height:50px;
+
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
+.DatoInv{
+background: transparent;
+border:none;
+height: 100%;
+
+}
+
+.FechaI{
+background: none;
+border:none;
+position: relative;
+width: 100%;
+height: 100%;
+
+}
+
+.arrow{
+	background: #042960;
+}
